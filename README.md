@@ -48,7 +48,7 @@
 
 ## 📈 Analyses GitHub
 
-![GitHub Stats](https://github-readme-stats-three-beige-95.vercel.app/api?username=Ricogermain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+<!--![GitHub Stats](https://github-readme-stats-three-beige-95.vercel.app/api?username=Ricogermain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true) -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ricogermain&theme=tokyonight&hide_border=true)
 
 ---
