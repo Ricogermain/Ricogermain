@@ -48,7 +48,8 @@
 
 ## 📈 Analyses GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ricogermain&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ricogermain&theme=tokyonight&hide_border=true)
+
 
 ---
 
