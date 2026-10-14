@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="100%" role="img" aria-label="1% de mieux chaque jour">
+  <defs>
+    <linearGradient id="f-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#1b1040"/>
+    </linearGradient>
+    <linearGradient id="f-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="150" fill="url(#f-bg)"/>
+
+  <path fill="#22d3ee" fill-opacity="0.14"
+        d="M0 112 q62.5 -22 125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 V150 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#f472b6" fill-opacity="0.12"
+        d="M-250 120 q62.5 18 125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 t125 0 V150 H-250 Z">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="18s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="62" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#e2e8f0" opacity="0">« 1 % de mieux chaque jour. »
+    <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.2;1" dur="2.4s" fill="freeze"/>
+  </text>
+  <rect x="380" y="78" width="240" height="3" rx="1.5" fill="url(#f-line)">
+    <animate attributeName="width" values="0;240;240;0" keyTimes="0;0.35;0.8;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="500;380;380;500" keyTimes="0;0.35;0.8;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
