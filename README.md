@@ -1,64 +1,51 @@
-# 👋 Salut, je suis Rico Germain
-### Développeur Full Stack • Architecte Web & Mobile • Esprit Créatif
+<div align="center">
 
----
+<img src="assets/header.svg" alt="Rico Germain, développeur Full Stack web et mobile" width="100%"/>
 
-## 🧠 À propos de moi
+</div>
 
-> 🚀 Développeur Full Stack passionné, spécialisé dans la création d'applications web et mobiles **performantes**, **évolutives** et **esthétiques**.
-> J'affectionne particulièrement l'architecture épurée, les interfaces utilisateur intuitives et la transformation d'idées en solutions numériques percutantes.
+## À propos
 
-- 🔥 Technologies web et mobiles modernes
-- 🎨 Développement axé sur l'interface utilisateur et l'expérience utilisateur
-- 🧩 Personne qui résout les problèmes et qui apprend tout au long de sa vie
+Développeur Full Stack. Je conçois des applications web et mobiles rapides, bien structurées et agréables à utiliser, de l'interface à la base de données.
 
----
+- Interfaces claires, pensées pour l'expérience utilisateur
+- Architecture propre côté frontend comme backend
+- Disponible pour toute forme de collaboration en développement Full Stack web et mobile
 
-## 🛠️ Pile technologique
+## Stack
 
-**🎨 Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="assets/stack.svg" alt="Technologies : React, Next.js, TypeScript, NestJS, Java, PHP, PostgreSQL, React Native, Expo, Photoshop, Illustrator" width="100%"/>
 
-**⚙️ Backend**
+</div>
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+## Projets
 
-**📱 Mobile**
+| Projet | Description | Technologies |
+| --- | --- | --- |
+| **AgroFarm Manager** | Application de gestion agricole complète | Next.js, React, NestJS, PostgreSQL |
+| **Bite** | Application mobile de livraison de repas | React Native, Expo, NativeWind |
+| **Coffee Corner** | Application mobile de commande de café | React Native, NestJS, Supabase |
+| **MonTemps** | Gestion du temps : emploi du temps, tâches, objectifs (APK Android) | React Native |
+| **Portfolio** | Mon site personnel, [à découvrir ici](https://rico-portfolio-one.vercel.app) | Next.js, TypeScript, Vercel |
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+## Activité GitHub
 
-**🎨 Design**
+<div align="center">
 
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ricogermain&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Ricogermain)
 
-**📚 En cours d'apprentissage**
+</div>
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+## Me contacter
 
----
+<div align="center">
 
-## 📈 Analyses GitHub
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=22d3ee&labelColor=0b1020&color=22d3ee)](https://rico-portfolio-one.vercel.app)
+[![Email](https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0b1020&color=f472b6)](mailto:ricogermain500@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0b1020&color=a78bfa)](https://www.linkedin.com/in/rico-germain-b979b72b1)
 
-<!--![GitHub Stats](https://github-readme-stats-three-beige-95.vercel.app/api?username=Ricogermain&show_icons=true&count_private=true&theme=tokyonight&hide_border=true) -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ricogermain&theme=tokyonight&hide_border=true)
+<img src="assets/footer.svg" alt="1 % de mieux chaque jour" width="100%"/>
 
----
-
-## 🌐 Connectons-nous
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2E9EF7?style=flat-square&logo=vercel&logoColor=white)](https://rico-portfolio-one.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ricogermain500@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rico-germain-b979b72b1)
-
----
-
-✨ *« 1% de mieux chaque jour, ce sera mieux. »* ✨
+</div>
