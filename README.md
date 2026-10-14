@@ -1,36 +1,35 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Rico Germain, développeur Full Stack web et mobile" width="100%"/>
+<img src="assets/header.svg" alt="Rico Germain, Full Stack web and mobile developer" width="100%"/>
 
 </div>
 
-## À propos
+## About
 
-Développeur Full Stack. Je conçois des applications web et mobiles rapides, bien structurées et agréables à utiliser, de l'interface à la base de données.
+Full Stack Developer. I build fast, well-structured web and mobile applications that are a pleasure to use, from the interface to the database.
 
-- Interfaces claires, pensées pour l'expérience utilisateur
-- Architecture propre côté frontend comme backend
-- Disponible pour toute forme de collaboration en développement Full Stack web et mobile
+- Clear interfaces designed around the user experience
+- Clean architecture on both frontend and backend
+- Open to any kind of collaboration in Full Stack web and mobile development
 
 ## Stack
 
 <div align="center">
 
-<img src="assets/stack.svg" alt="Technologies : React, Next.js, TypeScript, NestJS, Java, PHP, PostgreSQL, React Native, Expo, Photoshop, Illustrator" width="100%"/>
+<img src="assets/stack.svg" alt="Technologies: React, Next.js, TypeScript, NestJS, Java, PHP, PostgreSQL, React Native, Expo, Photoshop, Illustrator" width="100%"/>
 
 </div>
 
-## Projets
+## Projects
 
-| Projet | Description | Technologies |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| **AgroFarm Manager** | Application de gestion agricole complète | Next.js, React, NestJS, PostgreSQL |
-| **Bite** | Application mobile de livraison de repas | React Native, Expo, NativeWind |
-| **Coffee Corner** | Application mobile de commande de café | React Native, NestJS, Supabase |
-| **MonTemps** | Gestion du temps : emploi du temps, tâches, objectifs (APK Android) | React Native |
-| **Portfolio** | Mon site personnel, [à découvrir ici](https://rico-portfolio-one.vercel.app) | Next.js, TypeScript, Vercel |
+| **AgroFarm Manager** | Full farm management application | Next.js, React, NestJS, PostgreSQL |
+| **Coffee Corner** | Mobile coffee ordering app | React Native, NestJS, Supabase |
+| **MonTemps** | Time management: schedule, tasks, goals (Android APK) | React Native |
+| **Portfolio** | My personal website, [check it out](https://rico-portfolio-one.vercel.app) | Next.js, TypeScript, Vercel |
 
-## Activité GitHub
+## GitHub Activity
 
 <div align="center">
 
@@ -38,7 +37,7 @@ Développeur Full Stack. Je conçois des applications web et mobiles rapides, bi
 
 </div>
 
-## Me contacter
+## Contact me
 
 <div align="center">
 
@@ -46,6 +45,6 @@ Développeur Full Stack. Je conçois des applications web et mobiles rapides, bi
 [![Email](https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0b1020&color=f472b6)](mailto:ricogermain500@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0b1020&color=a78bfa)](https://www.linkedin.com/in/rico-germain-b979b72b1)
 
-<img src="assets/footer.svg" alt="1 % de mieux chaque jour" width="100%"/>
+<img src="assets/footer.svg" alt="1% better every day" width="100%"/>
 
 </div>
