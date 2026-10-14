@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="100%" role="img" aria-label="1% de mieux chaque jour">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="100%" role="img" aria-label="1% better every day">
   <defs>
     <linearGradient id="f-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
@@ -20,7 +20,7 @@
     <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="18s" repeatCount="indefinite"/>
   </path>
 
-  <text x="500" y="62" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#e2e8f0" opacity="0">« 1 % de mieux chaque jour. »
+  <text x="500" y="62" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#e2e8f0" opacity="0">“1% better every day.”
     <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.2;1" dur="2.4s" fill="freeze"/>
   </text>
   <rect x="380" y="78" width="240" height="3" rx="1.5" fill="url(#f-line)">
