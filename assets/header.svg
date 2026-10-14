@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%" role="img" aria-label="Rico Germain, développeur Full Stack web et mobile">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%" role="img" aria-label="Rico Germain, Full Stack web and mobile developer">
   <defs>
     <linearGradient id="h-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020">
@@ -56,7 +56,7 @@
   </g>
 
   <!-- texte -->
-  <text x="60" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#94a3b8" opacity="0">Salut, je suis
+  <text x="60" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#94a3b8" opacity="0">Hi, I'm
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
   </text>
 
@@ -70,15 +70,15 @@
   </rect>
 
   <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#e2e8f0">
-    <text x="60" y="186" opacity="0">Développeur Full Stack · Web &amp; Mobile
+    <text x="60" y="186" opacity="0">Full Stack Developer · Web &amp; Mobile
       <animate attributeName="opacity" dur="10.5s" begin="2.4s" repeatCount="indefinite" calcMode="discrete"
                keyTimes="0;0.31;0.33;1" values="1;1;0;0"/>
     </text>
-    <text x="60" y="186" opacity="0">Interfaces soignées, architecture propre
+    <text x="60" y="186" opacity="0">Polished interfaces, clean architecture
       <animate attributeName="opacity" dur="10.5s" begin="2.4s" repeatCount="indefinite" calcMode="discrete"
                keyTimes="0;0.33;0.64;0.66;1" values="0;1;1;0;0"/>
     </text>
-    <text x="60" y="186" opacity="0">Génie Logiciel &amp; Bases de Données
+    <text x="60" y="186" opacity="0">Software Engineering &amp; Databases
       <animate attributeName="opacity" dur="10.5s" begin="2.4s" repeatCount="indefinite" calcMode="discrete"
                keyTimes="0;0.66;0.98;1" values="0;1;1;0"/>
     </text>
@@ -86,12 +86,12 @@
 
   <!-- statut -->
   <g>
-    <rect x="60" y="214" width="372" height="38" rx="19" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.45"/>
+    <rect x="60" y="214" width="330" height="38" rx="19" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.45"/>
     <circle cx="82" cy="233" r="5" fill="#4ade80">
       <animate attributeName="r" values="4;7;4" dur="1.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0.45;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="98" y="239" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#e2e8f0">Disponible pour toute collaboration</text>
+    <text x="98" y="239" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#e2e8f0">Open to any collaboration</text>
   </g>
 
   <!-- vagues -->
